@@ -7,5 +7,5 @@
 2. 安装依赖  
    ```bash
    pip install tensorflow jieba gensim scikit-learn matplotlib
-3. 下载词向量（300 MB，需手动）
+3. 下载词向量（需手动）
 sgns.zhihu.bigram.bz2 ← 放 data/embeddings/
